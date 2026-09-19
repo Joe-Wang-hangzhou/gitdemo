@@ -5,6 +5,5 @@ Version: 1.0
 Features:
 
 - Login
-- Order
-- Payment
-- User Authentification
+- Order System
+
